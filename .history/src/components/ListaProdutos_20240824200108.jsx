@@ -7,13 +7,9 @@ return(
         <div key= {produto.id} class="card">
             <img src={produto.imagem}/>
             <h2>{produto.nome}</h2>
-            <p>{produto.efeito}</p>
-            <p>{produto.ml}</p>
-            <p>{produto.colecao}</p>
-            <p>{produto.preco}</p>
-            </div>
+            <p>{produto.}</p>
+            <p>{produto.}</p>
     )}
-    </div>
- );
+)
 
 }
