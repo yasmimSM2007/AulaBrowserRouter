@@ -136,6 +136,7 @@ export default function Ofertas (){
         preco: 3.99,
         imagem: "https://www.risque.com.br/wp-content/uploads/2020/04/escuros-azul-pack.png",
     }
+
     ])
     return(
         <ListaProdutos listaProdutos={produtos}/>
