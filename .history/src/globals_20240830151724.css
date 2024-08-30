@@ -43,7 +43,6 @@ header {
       width: 18%;
       flex-direction: column;
       border: 10px outset rgb(166, 166, 212);
-     
   }
   
   @media (min-width: 600px) {
@@ -79,4 +78,12 @@ header {
       width: 100%;
     }
   }
-  
+  .p {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .h2 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .h3 {
+    font-family: "Times New Roman", Times, serif;
+  }

@@ -142,6 +142,7 @@ const [produtos, setProdutos] = useState([{
 return(
     <div>
         <Header/>
+       
     <ListaProdutos listaProdutos={produtos}/>
     <Footer/>
     </div>
