@@ -6,15 +6,17 @@ header {
   }
   
   li {
-    color: rgb(0, 0, 0);
+    color: blue;
     display: inline;
     margin-right: 30%;
   }
   
   .titulo {
-    margin-left: 35%;
-    margin-right: 35%;
+    background-color: yellow;
+    margin-left: 33%;
+    margin-right: 33%;
     text-align: center;
+    color: blue;
   }
   
   footer {
@@ -42,7 +44,7 @@ header {
       display: flex;
       width: 18%;
       flex-direction: column;
-      border: 10px outset rgb(166, 166, 212);
+      border: 10px outset rgb(45, 45, 253);
   }
   
   @media (min-width: 600px) {
@@ -78,4 +80,3 @@ header {
       width: 100%;
     }
   }
-  

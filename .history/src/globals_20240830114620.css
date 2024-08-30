@@ -6,7 +6,7 @@ header {
   }
   
   li {
-    color: rgb(0, 0, 0);
+    color: blue;
     display: inline;
     margin-right: 30%;
   }
@@ -78,4 +78,3 @@ header {
       width: 100%;
     }
   }
-  

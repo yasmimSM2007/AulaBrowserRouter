@@ -6,15 +6,17 @@ header {
   }
   
   li {
-    color: rgb(0, 0, 0);
+    color: blue;
     display: inline;
     margin-right: 30%;
   }
   
   .titulo {
-    margin-left: 35%;
-    margin-right: 35%;
+    background-color: yellow;
+    margin-left: 33%;
+    margin-right: 33%;
     text-align: center;
+    color: blue;
   }
   
   footer {
@@ -78,4 +80,3 @@ header {
       width: 100%;
     }
   }
-  
