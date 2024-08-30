@@ -4,7 +4,7 @@ import Footer from "../components/Footer"
 import { Carousel } from 'react-responsive-carousel'
 import ListaProdutos from "../components/ListaProdutos"
 import 'react-responsive-carousel/lib/styles/carousel.min.css'
-
+import ListaProdutos from "../components/ListaProdutos"
 
 export default function Home (){
     const [ produtos, setProdutos ] = useState ([{
